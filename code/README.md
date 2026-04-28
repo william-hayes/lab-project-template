@@ -1,6 +1,6 @@
 ## Scripts
 
-**Code for non-interactive tasks like data pre-processing or model fitting.**
+**Code for non-interactive, automatized tasks like data pre-processing or model fitting.**
 
 *Example:* R script that reads in the master data file and performs various pre-processing steps to prepare the data for modeling.
 
